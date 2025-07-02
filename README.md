@@ -5,22 +5,21 @@ This repository is the beginning of my **cybersecurity portfolio**, where I will
 
 ---
 
-## 🔍 Latest Project: Phishing Investigation - BTLO
+## 🔍 Latest Project: NetworkMiner Analysis - TryHackMe
 
 ### 🧪 Summary:
-This project involves analyzing a real phishing email captured during a **BTLO challenge**. I performed a full breakdown using:
-- EML Analyzer
-- WHOIS domain lookup
-- Raw header inspection
-- URL2PNG preview
-- IOC extraction and mitigation strategy
+This project involves analyzing Two pcaps in NetworkMiner **TryHackMe Challenge**. I analyzed the packets and here is what I documented:
+- Initial Setup
+- Traffic and extracted file analysis
+- Artifacts extraction and screenshots
+- Conclusion
 
 
 ---
 
 ## 📁 What's Coming:
 - ✅ Phishing & Email Header Analysis reports
-- ✅ Network traffic captures and Snort rule testing
+- ✅ Network traffic captures and Traffic analysis using zeek
 - ✅ SOC investigations and SIEM walkthroughs
 - 🚧 Web log analysis, malware detonation labs, and endpoint forensics
 - 🚀 Cloud Security projects (Azure Sentinel, Defender for Cloud)

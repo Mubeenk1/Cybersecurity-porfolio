@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-This mini lab is part of my ongoing AZ-900 learning journey. In this activity, I deployed a **Windows Server 2019 virtual machine** in the Microsoft Azure cloud platform. This exercise helped me understand the core components involved in creating and managing cloud-based infrastructure.
+This mini lab is part of my ongoing AZ-900 learning journey. In this activity, I deployed a **Windows Server 2019 virtual machine** in the Microsoft Azure cloud platform. This exercise helped me understand the core components involved in creating and managing cloud-based infrastructure. Dive into the PDF to examine the screenshot and steps I took to create a VM
 
 ---
 

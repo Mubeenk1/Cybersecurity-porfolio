@@ -5,29 +5,30 @@ This repository is the beginning of my **cybersecurity portfolio**, where I will
 
 ---
 
-## 🔍 Latest Project: NetworkMiner Analysis - TryHackMe
+## 🔍 Latest Project: Azure Web App Deployment – AZ-900 Lab
 
 ### 🧪 Summary:
-This project involves analyzing Two pcaps in NetworkMiner **TryHackMe Challenge**. I analyzed the packets and here is what I documented:
-- Initial Setup
-- Traffic and extracted file analysis
-- Artifacts extraction and screenshots
-- Conclusion
+In this project, I created and deployed a basic web application using **Azure App Services (PaaS)**. I learned how to:
+- Create a Web App via the Azure Portal
+- Understand App Service Plans and scaling options
+- Choose a deployment region (Australia East)
+- Launch and access a live web app using Azure resources
+- Learn the role of resource groups, runtime stacks, and PaaS automation
 
+📄 Full step-by-step documentation is included in the report.
 
 ---
 
 ## 📁 What's Coming:
+- ✅ Creating Container Instances in Azure
+- ✅ Zeek-based traffic analysis and log interpretation
+- ✅ Suricata IDS deployment and custom rule creation
 - ✅ Phishing & Email Header Analysis reports
-- ✅ Network traffic captures and Traffic analysis using zeek
-- ✅ SOC investigations and SIEM walkthroughs
-- 🚧 Web log analysis, malware detonation labs, and endpoint forensics
-- 🚀 Cloud Security projects (Azure Sentinel, Defender for Cloud)
+- 🚧 Web log analysis and malware detonation labs
+- 🚀 SOC investigations using SIEM platforms
 
 ---
 
 ## 📫 Contact
 Feel free to connect or reach out:
 - Email: Khanyousef2003@gmail.com
-  
---

@@ -5,17 +5,18 @@ This repository is the beginning of my **cybersecurity portfolio**, where I will
 
 ---
 
-## 🔍 Latest Project: Azure Web App Deployment – AZ-900 Lab
+## 🔍 Latest Project: Linux IPTables Firewall Configuration and Testing
 
 ### 🧪 Summary:
-In this project, I created and deployed a basic web application using **Azure App Services (PaaS)**. I learned how to:
-- Create a Web App via the Azure Portal
-- Understand App Service Plans and scaling options
-- Choose a deployment region (Australia East)
-- Launch and access a live web app using Azure resources
-- Learn the role of resource groups, runtime stacks, and PaaS automation
+In this project, I configured and tested a host-based firewall using **iptables** on a Linux system. I simulated a real-world environment by controlling SSH, FTP, and HTTP access for different IP addresses. Key tasks included:
+- Defining rules using iptables command-line interface
+- Restricting SSH to admin only (10.0.0.1)
+- Allowing FTP only from user (10.0.0.2)
+- Allowing HTTP to the full 10.0.0.0/24 subnet
+- Testing rules using Nmap scans from simulated hosts via Mininet
+- Ensuring correct rule ordering and DROP policy
 
-📄 Full step-by-step documentation is included in the report.
+📄 Full configuration steps and screenshots are included in the project folder.
 
 ---
 

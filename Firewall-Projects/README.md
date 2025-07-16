@@ -1,6 +1,6 @@
 # 🔥 Firewall Projects by Mubeen Khan
 
-This folder showcases my hands-on labs and projects related to **firewall configuration**, testing, and management. Firewalls are critical components of cybersecurity infrastructure used to control **incoming and outgoing network traffic** based on an organization's **predefined security policies**.
+This folder showcases my hands-on labs and projects related to **firewall configuration**, testing, and management. Firewalls are critical components of cybersecurity infrastructure used to control **incoming and outgoing network traffic** based on an organization's **predefined security policies**. The .PDF files includes my projects and labs along with screenshots which showcases my hands-on lab for firewalls along with screenshots.
 
 ---
 

@@ -1,7 +1,7 @@
 # 🛡️ Cybersecurity Portfolio - Mubeen Khan
 
 Hi, I'm **Mubeen Khan**, a cybersecurity student passionate about hands-on learning and threat investigation.  
-This repository is the beginning of my **cybersecurity portfolio**, where I will be uploading detailed reports, analysis write-ups, and documentation of practical labs and challenges I complete on platforms like TryHackMe, Blue Team Labs Online (BTLO), LetsDefend, and more.
+This repository is the beginning of my **cybersecurity portfolio**, where I will be uploading my personal projects including detailed reports, analysis write-ups, and documentation of practical labs and challenges I complete on platforms like TryHackMe, Blue Team Labs Online (BTLO), LetsDefend, my university labworks and assignment and more.
 
 ---
 

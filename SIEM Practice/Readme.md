@@ -1,31 +1,70 @@
-Overview
-This repository contains my hands-on SIEM practice labs and projects from HackTheBox, university cybersecurity labs, and personal projects.
+# 🔒 SIEM Security Monitoring Labs
 
-SIEM Platforms
-ELK Stack (Elasticsearch, Logstash, Kibana)
+> **Hands-on SIEM exercises & detection engineering projects**
 
-Splunk
+---
 
-Wazuh
+## 🚀 About This Repository
 
-Projects Included
-All projects are documented in PDF format and include:
+This collection showcases my practical SIEM experience through various security monitoring scenarios and threat detection use cases from **HackTheBox**, **university labs**, and **personal projects**.
 
-HTB SIEM Exercises - Failed logon monitoring, disabled account attacks, service account abuse detection
+---
 
-University Labs - Security monitoring and detection rules
+## 🛡️ SIEM Platforms
 
-Personal Projects - Custom SIEM configurations and dashboards
+| Platform | Use Cases |
+|----------|-----------|
+| **ELK Stack** | Windows event analysis, custom dashboards, KQL queries |
+| **Splunk** | Enterprise monitoring, SPL searches, correlation rules |
+| **Wazuh** | Real-time threat detection, compliance monitoring |
 
-Skills Demonstrated
-SIEM dashboard creation and visualization
+---
 
-Security event monitoring and alerting
+## 📊 Featured Projects
 
-KQL and SPL query writing
+### 🎯 HackTheBox SIEM Exercises
+- **Failed Logon Monitoring** - Brute force & suspicious login detection
+- **Disabled Account Attacks** - Credential stuffing on inactive accounts  
+- **Service Account Abuse** - RDP misuse detection for privileged accounts
+- **Local Admin Tracking** - Privilege escalation & persistence monitoring
 
-Windows event log analysis
+### 🏫 University Labs
+- Network intrusion correlation
+- Compliance dashboards
+- Real-time alert pipelines
 
-Threat detection rule development
+### 🔬 Personal Projects
+- Custom detection rules
+- SIEM integration workflows
+- Automated response playbooks
 
-Projects are uploaded as PDF documents with detailed configurations and screenshots.
+---
+
+## 📁 Project Documentation
+
+All projects include **detailed PDF reports** with:
+- Step-by-step configurations
+- Screenshots of dashboards & visualizations
+- Detection logic explanations
+- Security impact analysis
+
+---
+
+## 💡 Skills Demonstrated
+
+- **SIEM Dashboard Development**
+- **KQL/SPL Query Writing** 
+- **Threat Detection Engineering**
+- **Windows Security Log Analysis**
+- **Alert Tuning & False Positive Reduction**
+- **Security Visualization Best Practices**
+
+---
+
+## 📬 Connect
+
+*Ready to discuss SIEM, threat detection, or security monitoring? Feel free to reach out!*
+
+---
+
+> *"Turning raw logs into actionable security intelligence"* 

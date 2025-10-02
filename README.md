@@ -5,31 +5,62 @@ This repository is the beginning of my **cybersecurity portfolio**, where I will
 
 ---
 
-## 🔍 Latest Project: Linux IPTables Firewall Configuration and Testing
+🔥 Latest Project: Windows 7 & Metasploitable2 Penetration Test
+**University Offensive Security Assignment**
 
-### 🧪 Summary:
-In this project, I configured and tested a host-based firewall using **iptables** on a Linux system. I simulated a real-world environment by controlling SSH, FTP, and HTTP access for different IP addresses. Key tasks included:
-- Defining rules using iptables command-line interface
-- Restricting SSH to admin only (10.0.0.1)
-- Allowing FTP only from user (10.0.0.2)
-- Allowing HTTP to the full 10.0.0.0/24 subnet
-- Testing rules using Nmap scans from simulated hosts via Mininet
-- Ensuring correct rule ordering and DROP policy
+- **Vulnerability Assessment**: Conducted comprehensive scanning using Tenable Nessus
+- **Target Exploitation**: 
+  - Exploited Metasploitable2 vulnerabilities using Metasploit framework
+  - Brute force attack on Windows 7 FTP server for unauthorized access
+- **Kali Linux**: Used as primary attack platform for penetration testing
+- **Documentation**: Full attack methodology and mitigation recommendations included
 
-📄 Full configuration steps and screenshots are included in the project folder.
+---
+## 🚧 What's Next
+
+### 🔄 In Progress
+- **SIEM Practice**: Advanced detection rules and correlation analytics
+- **CyberLab Build**: Creating isolated penetration testing environment
+- **System Administration**: Server deployment using VMware with multi-user account management
+- **Cloud Security**: Azure container instances and cloud security hardening
+
+### 📋 Planned Projects
+- **Zeek Network Analysis**: Traffic monitoring and log interpretation
+- **Suricata IDS**: Custom rule creation and deployment
+- **Phishing Analysis**: Email header investigation and threat reporting
+- **SOC Investigations**: SIEM-based incident response scenarios
+- **Web Security**: Log analysis and malware detonation chambers
 
 ---
 
-## 📁 What's Coming:
-- ✅ Creating Container Instances in Azure
-- ✅ Zeek-based traffic analysis and log interpretation
-- ✅ Suricata IDS deployment and custom rule creation
-- ✅ Phishing & Email Header Analysis reports
-- 🚧 Web log analysis and malware detonation labs
-- 🚀 SOC investigations using SIEM platforms
+## 🛠️ Technical Skills
+
+| Domain | Technologies |
+|--------|--------------|
+| **Offensive Security** | Metasploit, Nessus, Kali Linux, Brute Force Techniques |
+| **Network Security** | iptables, Nmap, Mininet, Firewall Configuration |
+| **Security Monitoring** | ELK Stack, Splunk, Wazuh, KQL, SPL |
+| **Infrastructure** | VMware, Windows/Linux Systems, Azure Cloud |
+| **Analysis Tools** | Zeek, Suricata, Forensic Tools |
 
 ---
 
-## 📫 Contact
-Feel free to connect or reach out:
-- Email: Khanyousef2003@gmail.com
+## 📁 Project Documentation
+
+All projects include **detailed reports and configurations** with:
+- Step-by-step implementation guides
+- Screenshots and terminal outputs
+- Security analysis and findings
+- Mitigation recommendations
+
+---
+
+## 📫 Connect
+
+**Email**: Khanyousef2003@gmail.com  
+
+*Open to discussing cybersecurity projects, collaboration opportunities, or professional roles in security operations, penetration testing, or security engineering.*
+
+---
+
+> *"From vulnerability exploitation to security monitoring - building comprehensive defensive capabilities through offensive experience"*
